@@ -1,0 +1,39 @@
+Name: Bill Gates
+Score: 92.22857142857144%
+
+Name: Robert Downey
+Score: 85.9857142857143%
+
+Name: Warren Buffet
+Score: 85.48333333333333%
+
+Name: Johnney Depp
+Score: 84.54285714285714%
+
+Name: Jeff Bezos
+Score: 82.70952380952382%
+
+Name: Elon Musk
+Score: 79.77857142857144%
+
+Name: Sundar Pichai
+Score: 77.18333333333334%
+
+Name: Michael Jordan
+Score: 75.01666666666667%
+
+Name: Tim Cook
+Score: 74.38095238095237%
+
+Name: Mark Zuckerberg
+Score: 73.04285714285714%
+
+Name: Lionel Messi
+Score: 71.76190476190476%
+
+Name: Jack Ma
+Score: 71.52380952380952%
+
+Name: Cristiaono Ronaldo
+Score: 63.347619047619055%
+
